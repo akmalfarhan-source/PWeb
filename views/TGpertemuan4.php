@@ -15,7 +15,7 @@
         </div>
 
         <div class="table-wrapper">
-            <table border="0">
+            <table border="1">
                 <tr>
                     <th colspan="4">Daftar Smartphone</th>
                 </tr>
