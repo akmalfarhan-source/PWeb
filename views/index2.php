@@ -4,10 +4,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=<, initial-scale=1.0">
-    <title>Document</title>
+    <title>Pertemuan 2</title>
 </head>
 
 <body>
+    <nav class="navbar">
+        <a href="index2.php" class="navbar-brand">Pemrograman Web</a>
+        <ul class="navbar-menu">
+            <li><a href="index2.php">Pertemuan 2</a></li>
+            <li><a href="pertemuan4.php">Data Mahasiswa</a></li>
+            <li><a href="TGpertemuan4.php">Daftar Smartphone</a></li>
+        </ul>
+    </nav>
     <table border="1" width="100%">
         <tr>
             <td width="10%">
