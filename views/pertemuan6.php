@@ -14,7 +14,7 @@ scale=1.0">
         body {
             font-family: Arial, sans-serif;
             background-color: #f2f4f8;
-            argin: 40px auto;
+            margin: 40px auto;
             background-color: white;
             padding: 25px;
             border-radius: 10px;
