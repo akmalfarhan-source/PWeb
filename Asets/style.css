@@ -140,6 +140,7 @@ th[colspan="4"] {
     color: var(--accent-color);
     background: linear-gradient(135deg, var(--accent-color), #8b5cf6);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
