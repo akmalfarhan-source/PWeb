@@ -105,6 +105,18 @@
                                 <p>pertemuan 7</p>
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a href="/Pweb/views/pertemuan9.php" class="nav-link">
+                                <i class="nav-icon bi bi-circle"></i>
+                                <p>pertemuan 9</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/Pweb/views/pertemuan10.php" class="nav-link">
+                                <i class="nav-icon bi bi-circle"></i>
+                                <p>pertemuan 10</p>
+                            </a>
+                        </li>
                     </ul>
                 </li>
                 <li class="nav-item">
